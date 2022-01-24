@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=KwanghunKim%&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=KwanghunKim%&fontColor=000000&fontSize=90)
 
 <h3 align='center'>
   
@@ -21,9 +21,16 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
 <h3>
+  
+<h3 align='center'>
+🎈About Me
+</h3>
+  
+<h5 align='center'>
+Blog : https://velog.io/@zozo1591<br>
+Email : zozo1591@naver.com
+</h5>
 
-<br>
-<br>
 <br>
   
 <h3 align='center'>
